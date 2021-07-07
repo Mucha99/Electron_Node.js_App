@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "electron ./app/index.html"
+    "start": "electron main.js"
   },
   "name": "Electron_Node.js_App",
   "version": "1.0.0",
